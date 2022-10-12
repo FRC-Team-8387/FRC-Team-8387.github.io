@@ -7,8 +7,8 @@ Hi! We are FRC Team 8387, The Thingy Thing Team. Our team was founded in 2019 at
 
 ## Team Photos
 
-![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
+![IMG_9348](https://user-images.githubusercontent.com/52547891/195246555-6608466d-f0a5-43fd-93cb-1dc80e7975a7.jpg)
 
-![screenshot](https://user-images.githubusercontent.com/4943215/109431832-b6cac080-7a08-11eb-9c5e-a058680c23a1.png)
+![IMG_9346](https://user-images.githubusercontent.com/52547891/195246562-162911f5-8ecb-4e3c-9e33-6a7512d1a4b3.jpg)
 
-![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
+![IMG_0251](https://user-images.githubusercontent.com/52547891/195246568-e3301369-56de-4d06-9ced-0964f6348e5a.JPG)
