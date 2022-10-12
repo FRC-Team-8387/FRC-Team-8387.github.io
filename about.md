@@ -1,5 +1,4 @@
 ---
-title: "Meet Our Team"
 layout: page
 ---
 
