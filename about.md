@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Meet Our Team"
 layout: page
 ---
 
