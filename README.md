@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: page
 ---
 
-## Installation
+## About
 
 Hi! We are FRC Team 8387, The Thingy Thing Team. Our team was founded in 2019 at Advanced Technologies Academy High School and we compteted in our first im-person competition last year! 
 
