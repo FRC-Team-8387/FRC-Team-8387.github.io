@@ -16,8 +16,8 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md", title: "Resources"}
+  - {file: "README.md"}
+  - {file: "comingsoon.md", title: "Resources"}
   - {url: "https://linktr.ee/thingything", title: "Connect"}
   - {url: "https://www.youtube.com/channel/UCJtikv8ZTeP3SXzYzfMvcwQ", title: "YouTube"} 
 
